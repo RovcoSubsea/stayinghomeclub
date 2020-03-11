@@ -110,6 +110,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | RingCentral | Encouraged, Recommended for Bay Area | Restricted | ? | ? | 2020-03-08 |
 | Roblox | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | RoboTerra| Required | Restricted | Restricted | Restricted | 2020-03-08 |
+| Rovco [1](https://twitter.com/RovcoSubsea/status/1235709176493600775) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
